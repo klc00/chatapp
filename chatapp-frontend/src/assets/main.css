@@ -1,0 +1,23 @@
+body {
+    background: #e3e1ff;
+    color: #444;
+}
+
+.container {
+    height: 100vh;
+}
+
+.error{
+    color: #49c133;
+    font-size: 14px;
+}
+
+button{
+    text-decoration: none;
+    background: #33a464;
+    color: #fff;
+    font-weight: bold;
+    border: 0;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
